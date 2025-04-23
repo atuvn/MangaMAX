@@ -65,7 +65,7 @@ export const SOURCES = [
   // },
   {
     source: "8",
-    name: "Server VIP của TuấnTuấn",
+    name: "Server VIP của Tuấn",
     url: "https://comick.xyz/",
     type: "latest",
     server: "comick",
