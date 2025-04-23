@@ -7,30 +7,30 @@ export const regexMatchMultiString =
 export const API_URL = "https://www.nettruyenup.com/";
 
 export const SOURCES = [
-  {
-    source: "1",
-    name: "Server 1",
-    url: "https://www.nettruyenus.com/",
-    type: "latest",
-    server: "nettruyen",
-    adult: false,
-  },
-  {
-    source: "2",
-    name: "Server 2",
-    url: "https://nhattruyenplus.com/",
-    type: "latest",
-    server: "netruyen",
-    adult: false,
-  },
-  {
-    source: "3",
-    name: "Server 3 (18+)",
-    url: "https://lxmanga.net/",
-    type: "latest",
-    server: "lxhentai",
-    adult: true,
-  },
+  // {
+  //   source: "1",
+  //   name: "Server 1",
+  //   url: "https://www.nettruyenus.com/",
+  //   type: "latest",
+  //   server: "nettruyen",
+  //   adult: false,
+  // },
+  // {
+  //   source: "2",
+  //   name: "Server 2",
+  //   url: "https://nhattruyenplus.com/",
+  //   type: "latest",
+  //   server: "netruyen",
+  //   adult: false,
+  // },
+  // {
+  //   source: "3",
+  //   name: "Server 3 (18+)",
+  //   url: "https://lxmanga.net/",
+  //   type: "latest",
+  //   server: "lxhentai",
+  //   adult: true,
+  // },
   // {
   //   source: "4",
   //   name: "Server 4",
@@ -65,7 +65,7 @@ export const SOURCES = [
   // },
   {
     source: "8",
-    name: "Server 8",
+    name: "Server VIP của TuấnTuấn",
     url: "https://comick.xyz/",
     type: "latest",
     server: "comick",
